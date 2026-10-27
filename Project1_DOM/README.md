@@ -20,9 +20,8 @@ The website is intended to be used by university students to track their coursew
 
 ## Web links
 
-- **Published application:** [Add your GitHub Pages URL here](https://yourusername.github.io/your-repository/)
-- **GitHub repository:** [Add your repository URL here](https://github.com/yourusername/your-repository)
-- **Project video presentation:** [Add your video URL here](https://example.com/)
+- **Published application:** https://github.com/KevinSingh65/Kevin-laurea-web-development-FrontEnd
+- **GitHub repository:** https://kevinsingh65.github.io/Kevin-laurea-web-development-FrontEnd/Project1_DOM/
 
 ## About the application
 
