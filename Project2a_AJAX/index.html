@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Project2_AJAX</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/script.js" defer></script>
+</head>
+
+<body>
+    <header>
+        <h1>MOVIE SEARCH</h1>
+    </header>
+
+    <div class="search-controls">
+        <div>
+            <p> Select type:</p>
+            <select id="typeSelect">
+                <option value="">All</option>
+                <option value="movie">Movie</option>
+                <option value="series">Series</option>
+                <option value="episode">Episodes</option>
+            </select>
+        </div>
+
+        <div>
+            <p>Search for a movie:</p>
+            <input type="text" id="movieSearch" placeholder="Enter movie name">
+            <button type="button" id="searchButton">Search</button>
+        </div>
+    </div>
+
+    <div id="movieList"></div>
+
+</body>
+</html>
